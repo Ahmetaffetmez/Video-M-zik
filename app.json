@@ -100,7 +100,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Günlük Grubu Kimliğinizi ekleyin, botunuzu ekleyin ve tam haklara sahip bir yönetici olarak tanıtın!. Yalnızca Grup'ı kullanın. Lütfen Kanal Kimliği kullanmayın.",
-      "value": "",
+      "value": "-1001915718534",
       "required": true
     },
     "SUDO_USERS": {
@@ -110,7 +110,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Eğer bunu bilmiyorsan, olduğu gibi git.",
-      "value": "",
+      "value": "https://github.com/cavres34/Video-M-zik",
       "required": true
     },
     "UPSTREAM_BRANCH": {
