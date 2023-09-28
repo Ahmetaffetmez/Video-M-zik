@@ -40,7 +40,7 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "http://www.mongodb.org/display/DOCS/Updating#Updating-ModifierOperations",
       "required": true
     },
     "MUSIC_BOT_NAME": {
