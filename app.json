@@ -65,7 +65,7 @@
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "",
+      "value": "BAAJQfs2hAvog7OHF17qDsirs0f7Sp8I1SzZVVO4gw94Xye1ahMweQzDyju0G5nkMDtIw_wTO1XwITLTtitPLIT374z8ZwfS3kFBGn3QL08kpehEsMJjvj0bBW6ZYbjgj8bH0su9qqRpdZ1lbepwl0aQ_Y2O1FNRndxcORx6FVcnHGMfhE8X2hrV2UpliCZnjKs9CrPCv4vTeMOA3rfSOmHpR3nv6zExJqOs7y-kmJGlCv4NoQhDZk0biGszefQLtOU2-z8a6eEgToibFsgGhKrVBKEJVX2lE_2pfFqFaHBP5WvKKf0T-LzEU43M8Ev1E410e5_eDbYtZJNYiETssLnOAAAAAXhSk8kA",
       "required": true
     },
     "STRING_SESSION2": {
