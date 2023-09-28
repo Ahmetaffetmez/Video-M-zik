@@ -21,9 +21,9 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/Mehmetbaba06/maho"
+    "UPSTREAM_REPO", "https://github.com/cavres34/Video-M-zik"
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "çavreş")
 
 if str(getenv("SUPPORT_CHANNEL")).strip() == "":
     SUPPORT_CHANNEL = None
@@ -35,7 +35,7 @@ else:
     SUPPORT_GROUP = str(getenv("SUPPORT_GROUP"))
 
 
-if str(getenv("STRING_SESSION1")).strip() == "":
+if str(getenv("STRING_SESSION1")).strip() == "BAAJQfs2hAvog7OHF17qDsirs0f7Sp8I1SzZVVO4gw94Xye1ahMweQzDyju0G5nkMDtIw_wTO1XwITLTtitPLIT374z8ZwfS3kFBGn3QL08kpehEsMJjvj0bBW6ZYbjgj8bH0su9qqRpdZ1lbepwl0aQ_Y2O1FNRndxcORx6FVcnHGMfhE8X2hrV2UpliCZnjKs9CrPCv4vTeMOA3rfSOmHpR3nv6zExJqOs7y-kmJGlCv4NoQhDZk0biGszefQLtOU2-z8a6eEgToibFsgGhKrVBKEJVX2lE_2pfFqFaHBP5WvKKf0T-LzEU43M8Ev1E410e5_eDbYtZJNYiETssLnOAAAAAXhSk8kA":
     STRING1 = str(None)
 else:
     STRING1 = str(getenv("STRING_SESSION1"))
