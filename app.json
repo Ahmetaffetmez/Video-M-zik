@@ -49,23 +49,23 @@
       "required": true
     },
     "SUPPORT_CHANNEL": {
-      "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "@rahatsizetmeyiniz34",
+      "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/affetmezler_sohbet
+      "value": "kurucu_sahipp",
       "required": false
     },
     "SUPPORT_GROUP": {
-      "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "rahatsizetmeyiniz34",
+      "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/affetmezler_sohbet
+      "value": "kurucu_sahipp",
       "required": false
     },
     "OWNER_ID": {
       "description": "SAHİbİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "6381139369",
+      "value": "6049517588",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "BAAJQfs2hAvog7OHF17qDsirs0f7Sp8I1SzZVVO4gw94Xye1ahMweQzDyju0G5nkMDtIw_wTO1XwITLTtitPLIT374z8ZwfS3kFBGn3QL08kpehEsMJjvj0bBW6ZYbjgj8bH0su9qqRpdZ1lbepwl0aQ_Y2O1FNRndxcORx6FVcnHGMfhE8X2hrV2UpliCZnjKs9CrPCv4vTeMOA3rfSOmHpR3nv6zExJqOs7y-kmJGlCv4NoQhDZk0biGszefQLtOU2-z8a6eEgToibFsgGhKrVBKEJVX2lE_2pfFqFaHBP5WvKKf0T-LzEU43M8Ev1E410e5_eDbYtZJNYiETssLnOAAAAAXhSk8kA",
+      "value": "BADNvmIAsGamczQ1CM_Rq9bteR1Gqwr5MdSV8f13GlqULpNHCRmlOoUn9Z7_2neJ5ZFj5EW90o6Jzc-XT6-PIsL9QPrefJ6XXeY9hEk_zrIc--20_i3bgFJjh9ooZYLXB6wGPMT0j5JuiW6OFgSENVNvdl_s7rhug69y2HfpWKITatIZndMKPVzI-qn61fb-CfclPPYyQa-nIZHm8OZ5WYmCvRXP-W_zwF2WhNPtqnPdBfFZYlVUCoJFZpiaZ1s8215KD7WfP32fLXi_BNJChYJ2_dzDvyTDb7Qv-qbBn_22p6tM5I9zK2JfDjWUsjPfn3dRh2DE1UOKaf2PcU3GginfwImfjAAAAAGJK7qIAA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -100,12 +100,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Günlük Grubu Kimliğinizi ekleyin, botunuzu ekleyin ve tam haklara sahip bir yönetici olarak tanıtın!. Yalnızca Grup'ı kullanın. Lütfen Kanal Kimliği kullanmayın.",
-      "value": "-1001915718534",
+      "value": "-1001906045085",
       "required": true
     },
     "SUDO_USERS": {
       "description": "SUDO olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "6381139369",
+      "value": "6049517588",
       "required": true
     },
     "UPSTREAM_REPO": {
